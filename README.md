@@ -24,6 +24,10 @@ Il mio percorso di formazione segue un ordine logico per integrare analisi e vis
   **[Visualizza l'App Online (Demo Live)](https://devhub-gray.vercel.app/)**
   (https://github.com/simonevitale27/devhub)
 
+- ### [Plant Data Manager](https://github.com/simonevitale27/Botany-Learning-Database)
+Sistema di gestione dati botanici integrato con **Supabase (PostgreSQL)** per la persistenza dei record. Il progetto dimostra la capacità di modellare database relazionali e gestire operazioni CRUD in cloud per l'analisi di dataset strutturati.
+**[Visualizza l'App Online (Demo Live)](https://flashcard-seven-theta.vercel.app/)**
+
 
 ---
 
