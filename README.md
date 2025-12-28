@@ -20,9 +20,9 @@ Il mio percorso di formazione segue un ordine logico per integrare analisi e vis
 ---
 
 ## Progetti Principali
-- **DevHub:** Strumento per il training SQL con sistema di traduzione logica verso Python.
-  **[Visualizza l'App Online (Demo Live)](https://devhub-gray.vercel.app/)**
-  (https://github.com/simonevitale27/devhub)
+- ### [DevHub](https://github.com/simonevitale27/devhub)
+Strumento per il training SQL con sistema di traduzione logica verso Python.
+**[Visualizza l'App Online (Demo Live)](https://devhub-gray.vercel.app/)**
 
 - ### [Plant Data Manager](https://github.com/simonevitale27/Botany-Learning-Database)
 Sistema di gestione dati botanici integrato con **Supabase (PostgreSQL)** per la persistenza dei record. Il progetto dimostra la capacità di modellare database relazionali e gestire operazioni CRUD in cloud per l'analisi di dataset strutturati.
