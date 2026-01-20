@@ -21,7 +21,7 @@ Il mio percorso di formazione segue un ordine logico per integrare analisi e vis
 ---
 
 ## Progetti Principali
-- ### [customer-segmentation-rfm]([https://github.com/simonevitale27/Botany-Learning-Database](https://github.com/simonevitale27/customer-segmentation-rfm)
+- ### [customer-segmentation-rfm]([https://github.com/simonevitale27/customer-segmentation-rfm])
 Analisi RFM per segmentazione clienti e-commerce: identificazione Champions e calcolo ROI retention su clienti At Risk tramite SQL e Power BI
 
 - ### [DevHub](https://github.com/simonevitale27/devhub)
