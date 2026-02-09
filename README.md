@@ -13,7 +13,7 @@ Analista dati con esperienza nella gestione di business (Gold Pressvre Studio). 
 ## Roadmap di Specializzazione (Master Epicode)
 Il mio percorso di formazione segue un ordine logico per integrare analisi e visualizzazione:
 
-1. **Excel Avanzato: **Pulizia del dato, creazione di tabelle, utilizzo di Power Query e Power Pivot.
+1. **Excel Avanzato:** Pulizia del dato, creazione di tabelle, utilizzo di Power Query e Power Pivot.
 2. **SQL (conseguito):** Approfondimento su manipolazione dati, viste e ottimizzazione delle performance.
 3. **Python (in corso):** Studio di Pandas e NumPy per l'analisi statistica e l'automazione.
 4. **Power BI (prossimo):** Creazione di dashboard interattive per il Data Storytelling aziendale.
