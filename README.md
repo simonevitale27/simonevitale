@@ -1,5 +1,5 @@
 # Simone Vitale
-Junior Data Analyst | SQL, Python, Power BI
+Junior Data Analyst | SQL, Python, Power BI, Excel Avanzato
 
 ## Profilo e Competenze
 Analista dati con esperienza nella gestione di business (Gold Pressvre Studio). Unisco la logica finanziaria alla gestione tecnica dei database.
